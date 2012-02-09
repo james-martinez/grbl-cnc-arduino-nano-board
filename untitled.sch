@@ -2197,6 +2197,7 @@ Standard 2-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <text x="111.76" y="43.18" size="1.778" layer="91">VMOT</text>
 <text x="73.66" y="43.18" size="1.778" layer="91">ENABLE</text>
 <text x="76.2" y="40.64" size="1.778" layer="91">MS1</text>
+<text x="15.24" y="114.3" size="5.08" layer="91">Pin-assignments from Grbl 0.5</text>
 </plain>
 <instances>
 <instance part="JP1" gate="G$1" x="5.08" y="76.2"/>
