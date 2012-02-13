@@ -2650,7 +2650,29 @@ Standard 3-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <text x="111.76" y="43.18" size="1.778" layer="91">VMOT</text>
 <text x="73.66" y="43.18" size="1.778" layer="91">ENABLE</text>
 <text x="76.2" y="40.64" size="1.778" layer="91">MS1</text>
-<text x="15.24" y="114.3" size="5.08" layer="91">Pin-assignments from Grbl 0.5</text>
+<text x="48.26" y="129.54" size="3.81" layer="97">Pin-assignments from Grbl 0.5</text>
+<text x="91.44" y="15.24" size="3.81" layer="97">Step Modes</text>
+<text x="2.54" y="101.6" size="3.81" layer="97">Arduino Nano</text>
+<text x="76.2" y="109.22" size="3.81" layer="97">A4988 Stepper Motor Driver Carrier</text>
+<text x="162.56" y="109.22" size="2.54" layer="97">Pololu item #: 1182 </text>
+<text x="2.54" y="40.64" size="2.54" layer="97">Motor Power</text>
+<text x="33.02" y="88.9" size="1.778" layer="91">RST</text>
+<text x="0" y="88.9" size="1.778" layer="91">RST</text>
+<text x="0" y="91.44" size="1.778" layer="91">RX</text>
+<text x="0" y="93.98" size="1.778" layer="91">TX</text>
+<text x="33.02" y="83.82" size="1.778" layer="91">A7</text>
+<text x="33.02" y="81.28" size="1.778" layer="91">A6</text>
+<text x="33.02" y="78.74" size="1.778" layer="91">A5</text>
+<text x="33.02" y="76.2" size="1.778" layer="91">A4</text>
+<text x="33.02" y="73.66" size="1.778" layer="91">A3</text>
+<text x="33.02" y="71.12" size="1.778" layer="91">A2</text>
+<text x="33.02" y="68.58" size="1.778" layer="91">A1</text>
+<text x="33.02" y="66.04" size="1.778" layer="91">A0</text>
+<text x="33.02" y="63.5" size="1.778" layer="91">REF</text>
+<text x="33.02" y="60.96" size="1.778" layer="91">3.3V</text>
+<text x="33.02" y="58.42" size="1.778" layer="91">D13</text>
+<text x="-7.62" y="33.02" size="1.778" layer="91">12-24V</text>
+<text x="-12.7" y="30.48" size="1.778" layer="91">MOTOR GND</text>
 </plain>
 <instances>
 <instance part="JP1" gate="G$1" x="5.08" y="76.2"/>
