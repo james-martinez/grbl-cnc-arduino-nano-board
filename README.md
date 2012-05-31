@@ -1,4 +1,4 @@
 Made with Eagle 6.1
 
-A milled board.
-[[gollum.png|frame|alt=Gollum and his precious wiki]]
+
+[[1.jpg|frame|alt=A milled board]]
